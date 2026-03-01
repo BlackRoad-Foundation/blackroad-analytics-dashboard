@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://blackroad-foundation.github.io/blackroad-analytics-dashboard/sitemap.xml
+
+# Crawl priority hints
+# Priority: index.html, README.md, src/, tests/
